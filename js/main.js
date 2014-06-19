@@ -1,0 +1,3 @@
+RMC.init(function(){
+	
+});
